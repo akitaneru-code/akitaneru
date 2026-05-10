@@ -1,0 +1,1 @@
+import{T as e}from"./terms-elSbDDFr.js";import{_ as r,r as s,o as t,j as n}from"./index-B0dPLRAg.js";const c={components:{Terms:e}};function a(m,p,_,f,i,u){const o=s("Terms",!0);return t(),n(o)}const T=r(c,[["render",a]]);export{T as default};

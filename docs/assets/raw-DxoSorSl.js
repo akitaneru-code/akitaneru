@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as o}from"./index-B0dPLRAg.js";const c={},n=["value"];function r(e,s){return t(),o("textarea",{readonly:"",value:e.data.content},null,8,n)}const l=a(c,[["render",r],["__scopeId","data-v-0b889017"]]);export{l as default};
