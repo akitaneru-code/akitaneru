@@ -1,0 +1,1 @@
+import{_ as c,o as e,c as a,F as s,b as o,a as n}from"./index-Dkmo3ctm.js";const r={},t={class:"loading-block"};function _(d,i){return e(),a("div",t,[(e(),a(s,null,o(12,l=>n("div")),64))])}const m=c(r,[["render",_],["__scopeId","data-v-a9d213ac"]]);export{m as L};
