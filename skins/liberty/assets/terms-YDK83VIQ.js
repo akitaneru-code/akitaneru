@@ -1,0 +1,1 @@
+import{_ as n,o as r,c}from"./index-Dkmo3ctm.js";const o={},s=["innerHTML"];function t(e,_){return r(),c("pre",{innerHTML:e.data.terms},null,8,s)}const d=n(o,[["render",t],["__scopeId","data-v-e0496785"]]);export{d as T};

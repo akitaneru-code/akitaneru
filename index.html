@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Tree Wiki</title>
+    <script>
+      // Redirect to the actual app
+      window.location.href = '/skins/plain/';
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to wiki application...</p>
+  </body>
+</html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--app-head-->
+    <script type="module" crossorigin src="/skins/plain/assets/index-B0dPLRAg.js"></script>
+    <link rel="stylesheet" crossorigin href="/skins/plain/assets/index-Dw56K4S5.css">
+  </head>
+  <body>
+    <script nonce="{cspNonce}">try{n=["light","dark"],t=JSON.parse(localStorage.getItem("thetree_settings"))?.["wiki.theme"],d=0,t&&"auto"!=t?t==n[1]&&(d=1):d=matchMedia("(prefers-color-scheme:dark)").matches-0,c=e=>`theseed-${n[e]}-mode`,b=document.body.classList,b.remove(c(1-d)),b.add(c(d))}catch(e){}</script>
+    <div id="app"><!--app-body--></div>
+  </body>
+</html>

@@ -1,0 +1,1 @@
+import{_ as n,o as c,c as o,t as s,n as r}from"./index-B0dPLRAg.js";const u={props:{count:{type:Number,required:!0,default:0}},computed:{countStr(){return this.count>0?"+"+this.count:this.count}}};function a(i,p,t,_,d,e){return c(),o("span",{class:r({plus:t.count>0,minus:t.count<0})},s(e.countStr),3)}const f=n(u,[["render",a],["__scopeId","data-v-47e792d5"]]);export{f as D};

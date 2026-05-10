@@ -1,0 +1,1 @@
+import{D as o}from"./diff-CdAOoZVj.js";import{_ as f,r,o as s,j as n}from"./index-B0dPLRAg.js";const a={components:{Diff:o},data(){return this.$store.state.viewData}};function i(t,c,l,p,d,m){const e=r("Diff",!0);return s(),n(e,{title:`r${t.oldRev} vs r${t.rev}`,diffHtml:t.diff.diffHtml},null,8,["title","diffHtml"])}const $=f(a,[["render",i]]);export{$ as default};
